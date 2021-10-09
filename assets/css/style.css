@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+}
+.diagrama{
+    height: 500px;
+    width: 500px;
+}
+
+.pseudo{
+    display:block
+}
